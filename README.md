@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **keltonlima/keltonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,3 @@ Here are some ideas to get you started:
 </div>
 
 ##
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Klima-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Klima-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  <img align="center" alt="Klima-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  </div>
